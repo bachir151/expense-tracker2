@@ -1,0 +1,9 @@
+*.pyc
+.env
+.venv/
+poetry.lock
+*.log
+dist/
+build/
+*.egg-info/
+.DS_Store'
